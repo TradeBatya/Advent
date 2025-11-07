@@ -1,0 +1,12 @@
+{
+  "functions": [
+    {
+      "name": "manage-roles",
+      "source_path": "edge-functions/manage-roles.ts"
+    },
+    {
+      "name": "discord-oauth",
+      "source_path": "edge-functions/discord-oauth.ts"
+    }
+  ]
+}
